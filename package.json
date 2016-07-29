@@ -1,0 +1,26 @@
+{
+  "name": "node-elasticsearch-tutorial",
+  "version": "1.0.0",
+  "description": "Examples for setting up and using elasticsearch in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behroozk/node-elasticsearch-tutorial.git"
+  },
+  "keywords": [
+    "Node.js",
+    "elasticsearch"
+  ],
+  "author": "Behrooz Kamali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behroozk/node-elasticsearch-tutorial/issues"
+  },
+  "homepage": "https://github.com/behroozk/node-elasticsearch-tutorial#readme",
+  "dependencies": {
+    "elasticsearch": "^11.0.1"
+  }
+}
