@@ -2,7 +2,7 @@
 
 Behrooz Kamali takes an in-depth look at elasticsearch—a scalable, high-performance search engine—demonstrating how to integrate it into a Node project.
 
-Article url: https://www.sitepoint.com/search-engine-node-elasticsearch
+**Article url**: https://www.sitepoint.com/search-engine-node-elasticsearch
 
 ## Requirements
 
@@ -10,7 +10,7 @@ Article url: https://www.sitepoint.com/search-engine-node-elasticsearch
 * [Java Runtime Environment](https://java.com/en/) (min version 1.8)
 * [Elasticsearch](https://www.elastic.co/)
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 1. Clone repo
 2. Run `npm install`
