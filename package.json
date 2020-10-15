@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/behroozk/node-elasticsearch-tutorial#readme",
   "dependencies": {
-    "elasticsearch": "^11.0.1"
+    "elasticsearch": "^16.7.1"
   }
 }
